@@ -36,5 +36,7 @@ for i in range (len(zmienna)):
             lista_zmiennej.append(zmienna)
 print(lista_zmiennej)
 
+#yo. na wstępie, bardzo przepraszam że sobie wziąłem czyjś plik
+
 
 
